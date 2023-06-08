@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Probando</string>
+    <string name="opcion1">About us</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+
+    <string name="boton1">karla</string>
+
+</resources>
